@@ -1,0 +1,357 @@
+[
+  {
+    "name":"# Goblin",
+    "units":[
+      {
+        "enemyIdx":13,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# 3 x Goblin",
+    "units":[
+      {
+        "enemyIdx":13,
+        "x":167,
+        "y":155
+      },
+      {
+        "enemyIdx":13,
+        "x":152,
+        "y":265
+      },
+      {
+        "enemyIdx":13,
+        "x":342,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# 2 x Goblin, Goblincmdr",
+    "units":[
+      {
+        "enemyIdx":13,
+        "x":167,
+        "y":155
+      },
+      {
+        "enemyIdx":13,
+        "x":152,
+        "y":265
+      },
+      {
+        "enemyIdx":15,
+        "x":342,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Goblin, Goblinwiz",
+    "units":[
+      {
+        "enemyIdx":13,
+        "x":255,
+        "y":155
+      },
+      {
+        "enemyIdx":21,
+        "x":240,
+        "y":265
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# 2 x Goblinninja, Goblinrider",
+    "units":[
+      {
+        "enemyIdx":16,
+        "x":167,
+        "y":155
+      },
+      {
+        "enemyIdx":16,
+        "x":152,
+        "y":265
+      },
+      {
+        "enemyIdx":17,
+        "x":342,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# 2 x Goblinshaman, 2 x Goblinwat",
+    "units":[
+      {
+        "enemyIdx":18,
+        "x":167,
+        "y":155
+      },
+      {
+        "enemyIdx":18,
+        "x":152,
+        "y":265
+      },
+      {
+        "enemyIdx":20,
+        "x":342,
+        "y":155
+      },
+      {
+        "enemyIdx":20,
+        "x":327,
+        "y":265
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Lesma",
+    "units":[
+      {
+        "enemyIdx":171,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.9,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# 2 x Lesma",
+    "units":[
+      {
+        "enemyIdx":171,
+        "x":255,
+        "y":155
+      },
+      {
+        "enemyIdx":171,
+        "x":240,
+        "y":265
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Alienbug",
+    "units":[
+      {
+        "enemyIdx":97,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Bat",
+    "units":[
+      {
+        "enemyIdx":104,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Bluesnake",
+    "units":[
+      {
+        "enemyIdx":111,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Goblin",
+    "units":[
+      {
+        "enemyIdx":13,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Skel",
+    "units":[
+      {
+        "enemyIdx":37,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Lionman",
+    "units":[
+      {
+        "enemyIdx":27,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Whitebird",
+    "units":[
+      {
+        "enemyIdx":135,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Gargoyle",
+    "units":[
+      {
+        "enemyIdx":12,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Basilisk",
+    "units":[
+      {
+        "enemyIdx":0,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Lacriatura",
+    "units":[
+      {
+        "enemyIdx":94,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Dragon6",
+    "units":[
+      {
+        "enemyIdx":67,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Darklord",
+    "units":[
+      {
+        "enemyIdx":2,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  }
+]
